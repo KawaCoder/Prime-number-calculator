@@ -4,7 +4,16 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
-//FREE CODE! Do what you want with it! ;)
+
+
+
+
+
+//FREE CODE! Do what you want with it as it don't collapse with this licence below ;)
+
+/* This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
 
 
 public class primeNumbersCalculator {
