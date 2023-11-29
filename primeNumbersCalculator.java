@@ -41,7 +41,7 @@ public class primeNumbersCalculator {
 
 
         startTime = System.currentTimeMillis();
-        for (int i = 0; i <= nbofpn; i++){
+        for (int i = 0; nombre <= nbofpn; i++){
             nope = false;
 
             for (int ii = 2; ii <= nombre / 2; ii++) {
